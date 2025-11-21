@@ -1,1 +1,7 @@
+1. System Architecture Diagram
 
+For this coursework, I deployed two systems:
+
+Server System: A headless Linux server (Ubuntu Server / Fedora Server) running in VirtualBox.
+
+Workstation System: My host machine, acting as the administrative workstation, using SSH to access the server.
